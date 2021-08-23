@@ -1,4 +1,5 @@
 voila
+fasatbook
 fastai>=2.0.0
 graphviz
 ipywidgets
